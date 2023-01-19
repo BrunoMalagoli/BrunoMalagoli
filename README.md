@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="80" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" width="80" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="80" height="40"/>
